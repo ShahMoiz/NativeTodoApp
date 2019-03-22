@@ -6,7 +6,6 @@ class HeaderComponent extends Component {
     return (
             //  <StyleProvider style={getTheme()}>
   
-  <Container>
           <Header>
             <Left>
               <Button transparent>
@@ -28,7 +27,6 @@ class HeaderComponent extends Component {
               </Button>
             </Right>
           </Header>
-        </Container>
       //  </StyleProvider>
   
     )}}
