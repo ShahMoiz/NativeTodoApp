@@ -6,22 +6,17 @@ class HeaderComponent extends Component {
     return (
             //  <StyleProvider style={getTheme()}>
   
-          <Header>
-            <Left>
-              <Button transparent>
-                <Icon name='arrow-back' />
-              </Button>
-            </Left>
+          <Header noLeft>
             <Body>
-              <Title>Header</Title>
+              <Title>Native Todo App</Title>
             </Body>
             <Right>
               <Button transparent>
                 <Icon name='search' />
               </Button>
               <Button transparent>
-                <Icon name='heart' />
-              </Button>
+                <Icon name='add' />
+              </Button> 
               <Button transparent>
                 <Icon name='more' />
               </Button>
