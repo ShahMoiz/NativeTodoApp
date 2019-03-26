@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "107252088665",
+    "firebase_url": "https://remindertodoapp.firebaseio.com",
+    "project_id": "remindertodoapp",
+    "storage_bucket": "remindertodoapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107252088665:android:5aee55ad76284c09",
+        "android_client_info": {
+          "package_name": "com.nativetodoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107252088665-akshcm2tf981r57oha6mb9meg1o3ikrt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRm42pU5yIlmmW4gSSRBrMW9-k8I3HwHE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
